@@ -1,0 +1,13 @@
+E:\coding\secretProj\OfficePlugins\WordAddIns\bin\Debug\WordAddIns.dll
+E:\coding\secretProj\OfficePlugins\WordAddIns\bin\Debug\WordAddIns.pdb
+E:\coding\secretProj\OfficePlugins\WordAddIns\bin\Debug\WordAddIns.dll.manifest
+E:\coding\secretProj\OfficePlugins\WordAddIns\bin\Debug\WordAddIns.vsto
+E:\coding\secretProj\OfficePlugins\WordAddIns\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.csproj.AssemblyReference.cache
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.Properties.Resources.resources
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.Zone1.resources
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.csproj.GenerateResource.cache
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.csproj.CoreCompileInputs.cache
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.csproj.Up2Date
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.dll
+E:\coding\secretProj\OfficePlugins\WordAddIns\obj\Debug\WordAddIns.pdb
