@@ -1,5 +1,5 @@
 # PracticalOfficeAddIns
-These are some practical office addins, aiming to bring much convenience when dealing with documents.​ 
+These are some practical office addins, aiming to bring much convenience when dealing with documents.​  
 为了高效地编辑文档，开发了一些Office加载项
 
 # Update Logs：
