@@ -1,6 +1,7 @@
 # PracticalOfficeAddIns
-These are some practical office addins, aiming to bring much convenience when dealing with documents.​  
-为了高效地编辑文档，开发了一些Office加载项
+**These are some practical office addins, aiming to bring much convenience when dealing with documents.​  
+高三国际生，为了高效地编辑文档，开发了一些Office加载项
+（小声bibi：也是个人的第一个小项目（hh也是为了申请大学。。））**
 
 # Update Logs：
 ## 12/24/2024
