@@ -11,3 +11,7 @@ Since the new version of office supports auto-saving to OneDrive, the program ca
 由于新版的Office会自动保存文件，获取到的文件路径是在云上的（包含d.docs.live.net），如果你开启了OneDrive自动保存，需要根据个人的情况修改路径相关的部分代码
 
 开发的时候考虑到python速度的问题以及无法定位只读文件，所以使用和Windows兼容性更好的C#
+
+## 12/29/2024
+全新开发！！
+Excel工作表查找：根据工作表名称查找并跳转到对应的工作表
