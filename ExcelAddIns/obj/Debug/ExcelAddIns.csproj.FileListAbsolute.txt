@@ -1,0 +1,14 @@
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.csproj.AssemblyReference.cache
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.Properties.Resources.resources
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.csproj.GenerateResource.cache
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.csproj.CoreCompileInputs.cache
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\bin\Debug\ExcelAddIns.dll
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\bin\Debug\ExcelAddIns.pdb
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\bin\Debug\ExcelAddIns.dll.manifest
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\bin\Debug\ExcelAddIns.vsto
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAdd.BF875B76.Up2Date
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.dll
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.pdb
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.QbTools.resources
+E:\coding\secretProj\OfficePlugins\ExcelAddIns\obj\Debug\ExcelAddIns.SearchWindow.resources
