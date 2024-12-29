@@ -15,3 +15,5 @@ Since the new version of office supports auto-saving to OneDrive, the program ca
 ## 12/29/2024
 全新开发！！
 Excel工作表查找：根据工作表名称查找并跳转到对应的工作表
+![image](ExcelAddIns/PixPin_2024-12-29_23-00-46.png)
+![image](ExcelAddIns/PixPin_2024-12-29_23-00-06.png)
